@@ -1,5 +1,8 @@
 # Git ENSG
 Salut c'est le groupe de nico damien et tanguy
+
+![alt text](ahhahhh.avif)
+
 ![Logo Git](images/git-logo.svg)
 
 **Git est un VCS (Version Control System) ou logiciel de gestion de versions** qui est notamment pensé pour le travail collaboratif. Il offre la possibilité :
