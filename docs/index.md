@@ -1,6 +1,7 @@
 # Git ENSG
 Salut c'est le groupe de nico damien et tanguy
 
+<<<<<<< HEAD
 ![alt text](nico.png)
 
 ![Logo Git](images/git-logo.svg)
