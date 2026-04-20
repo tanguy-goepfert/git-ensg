@@ -2,8 +2,10 @@
 # BlaBla
 ####### Damien
 Salut c'est le groupe de nico damien et tanguy
-Deuxieme essai la douche de quentin
-![Logo Git](ahhahhh.avif)
+
+
+![alt text](nico.png)
+
 
 ![Logo Git](images/git-logo.svg)
 
@@ -271,11 +273,8 @@ Lorsqu’une fusion est tentée, mais que deux personnes ont modifié une ou plu
 
 ```bash
 # début du conflit
-<<<<<<< HEAD
     # premier état du fichier
-=======
     # second état
->>>>>>> nom_branche
 # fin du conflit
 ```
 
